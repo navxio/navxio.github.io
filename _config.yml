@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "First Lastname"
+  name: "Navdeep Saini"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Programmer. Learner. Pet Parent"
+  bio: "Programmer, Learner, Pet Parent"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
