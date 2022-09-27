@@ -60,7 +60,7 @@ sys	0m0.267s
 
 Looks like it increased? I think i'm gonna ditch this bash based benchmarks for the time being.
 
-The shell does feel snappier and looks like the completions work fine too. So I guess that's enough for
+Post disabling the profileer, the shell does feel snappier and looks like the completions work fine too. So I guess that's enough for
 me for the time being. One of these days I'm gonna get dissatisfied with the current load time and
 continue again on this path. Until then, I'm sorted.
 
