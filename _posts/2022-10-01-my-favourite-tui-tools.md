@@ -26,7 +26,7 @@ The list of features is long. Much props to the creator.
 
 ![spotify-tui](https://i.imgur.com/MmqBoJu.png)
 
-#### [wuzz](https://github.com/ascimoo/wuzz)
+#### [wuzz](https://github.com/asciimoo/wuzz)
 
 Oh my my. A postman like client for the tui? Count me in.
 This tui client is orders of magnitudes faster than its gui alternatives yet has a pretty
