@@ -9,6 +9,8 @@ tags:
   - programming
   - command-line
   - zsh
+jekyll-mentions:
+  base_url: https://github.com
 ---
 
 I love TUI software.
@@ -44,7 +46,7 @@ It comes with a sweet tui with `aria2t`.
 
 #### [bluetuith](https://github.com/darkhz/bluetuith)
 
-my man <darkhz> created a tui to manage your bluetooth connections right from the command line. Ain't that cool?
+My man @darkhz created a tui to manage your bluetooth connections right from the command line. Ain't that cool?
 It's avaiable for linux only for now :(
 
 ![bluetuith](https://i.imgur.com/wmyFL92.png)
