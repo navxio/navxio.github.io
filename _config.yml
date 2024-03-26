@@ -33,6 +33,16 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Asia/Kolkata"
 
+# comments
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
+    label: "💬 comment"
+    repo: "navxio/navxio.github.io"
+    issue_number: true
+
 include:
   - _pages
 
@@ -63,9 +73,6 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Programmer, Learner, Pet Parent"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://navdeep.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/navdeepio"
