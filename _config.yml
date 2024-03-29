@@ -41,7 +41,6 @@ comments:
     issue_term: "pathname"
     label: "💬 comment"
     repo: "navxio/navxio.github.io"
-    issue_number: true
 
 include:
   - _pages
