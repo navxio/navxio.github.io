@@ -40,7 +40,6 @@ comments:
     theme: "github-light"
     issue_term: "pathname"
     label: "💬 comment"
-    repo: "navxio/navxio.github.io"
 
 include:
   - _pages
