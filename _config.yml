@@ -23,6 +23,7 @@ twitter_username: navdeepio
 github_username: navxio
 minimal_mistakes_skin: default
 search: true
+repository: "navxio/navxio.github.io"
 
 # Build settings
 markdown: kramdown
@@ -40,6 +41,7 @@ comments:
     theme: "github-light"
     issue_term: "pathname"
     label: "💬 comment"
+    repo: "navxio/navxio.github.io"
 
 include:
   - _pages
