@@ -9,7 +9,7 @@ tags:
   - nvim
 ---
 
-![diffview screenshot](/assets/img/diffview.png)
+![diffview screenshot](/assets/images/diffview.png)
 
 Over the years, I've gone through so many merge tools - kdiff3, meld, beyond compare, Kaleidoscope. Nvim being my editor of choice, fortunately, has a rich ecosystem of plugins where I can set up an uber merge workflow using `diffview.nvim` and avoid using external tools altogether.
 
