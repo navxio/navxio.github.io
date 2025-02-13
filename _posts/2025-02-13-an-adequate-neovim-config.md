@@ -38,8 +38,8 @@ Not neovim though. I've tested and opened files as big as 1GB and everything in 
 
 ##### configuration
 
-one of the more controversial aspects of this, the achilles heel of productivity, the bottomless pit that some people find themselves in. Particularly I didn't think much about configuration until it was already too late. Suffice to say, I think the problem lies in how much community interest is there and also the impact of introducing `lua` as a configuration option.
-[luapad](https://github.com/<>/luapad)
+one of the more controversial aspects of this, the achilles' heel of productivity, the bottomless pit that some people find themselves in. Particularly I didn't think much about configuration until it was already too late. Suffice to say, I think the problem lies in how much community interest is there and also the impact of introducing `lua` as a configuration option.
+[luapad](https://github.com/rafcamlet/nvim-luapad)
 
 ##### stability
 
@@ -53,8 +53,8 @@ neovim although was lacking on some features early on, now it has a stable core.
 
 ##### lazyvim
 
-Although there are many awesome and older config distributions like [astrovim](https://github.com/astro/astrovim) / [nvchad](https://github.com/nvchad/<>), I prefer [lazyvim](https://lazyvim.org). It's a comprehensive plugin management system that gives you exactly what you need and can save hours of configuration hell. It's highly approachable and my configuration builds on top of it. Props to [folke](https://github.com/folke) for creating some awesome plugins and now this distro that he maintains with a passion.
+Although there are many awesome and older config distributions like [astrovim](https://github.com/astro/astrovim) / [nvchad](https://github.com/nvchad/nvchad), I prefer [lazyvim](https://lazyvim.org). It's a comprehensive plugin management system that gives you exactly what you need and can save hours of configuration hell. It's highly approachable and my configuration builds on top of it. Props to [folke](https://github.com/folke) for creating some awesome plugins and now this distro that he maintains with a passion.
 
 ##### conclusion
 
-the neovim community is a welcoming, dynamic and helpful one, which has led to a lot of innovation in the editor / ide space. Plugins like [markview.nvim](https://github.com/<>/<>) (inline markdown preview), [hardtime.nvim](https://github.com/) (helps you get used to healthy vim motions), [leetcode.nvim] (solve leetcode problems from the comfort of your editor) further improve one's compatibility with neovim as the editor and, [minty](https://github.com/nvchad/minty) are constantly pushing the boundaries of what neovim can do. Which is why I've taken to calling my particular configuration `neo development environment` in place of ide. Although plugins / neovim core are quite stable at this point, I believe the best of neovim is yet to come.
+the neovim community is a welcoming, dynamic and helpful one, which has led to a lot of innovation in the editor / ide space. Plugins like [markview.nvim](https://github.com/oxy2dev/markview.nvim) (inline markdown preview), [hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) (helps you get used to healthy vim motions), [leetcode.nvim](https://kawre/leetcode.nvim) (solve leetcode problems from the comfort of your editor) further improve one's compatibility with neovim as the editor and, [minty](https://github.com/nvchad/minty) are constantly pushing the boundaries of what neovim can do. Which is why I've taken to calling my particular configuration `neo development environment` in place of ide. Although plugins / neovim core are quite stable at this point, I believe the best of neovim is yet to come.
