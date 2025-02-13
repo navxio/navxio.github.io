@@ -38,18 +38,13 @@ Not neovim though. I've tested and opened files as big as 1GB and everything in 
 
 ##### configuration
 
-one of the more controversial aspects of this, the achilles' heel of productivity, the bottomless pit that some people find themselves in. Particularly I didn't think much about configuration until it was already too late. Suffice to say, I think the problem lies in how much community interest is there and also the impact of introducing `lua` as a configuration option.
-[luapad](https://github.com/rafcamlet/nvim-luapad)
+one of the more controversial aspects of this, the achilles' heel of productivity, the bottomless pit that some people find themselves in. Particularly I didn't think much about configuration until it was already too late. Suffice to say, I think the problem lies in how much community interest is there and also the impact of introducing `lua` as a configuration option.On top of it all, plugins like [luapad](https://github.com/rafcamlet/nvim-luapad) help ease you into the process of configuration by providing an interactive console. Much cool.
 
 ##### stability
 
 `vim` has traditionally been a stable software, and carrying this into neovim must not have been an easy task for neovim contributors and maintainers, especially when they were trying to improve upon the codebase to ease contributions. But they've done a great job by being laser focused on the core mission which was already quite revolutionary at the time. First class lua support can be a boon or a curse the way you look at it. For me it works really well as lua is an approachable little language that's understood by tools I use all over (say awesomewm, hammerspoon,). One can even use lua as a scripting language with nginx to create dynamic responses.
 
 Checking all these boxes at once is rare but the team as quite deftly handled the transition. Because of this uber reliability and stability and ease of configuration, the community members have created a wide variety of distributions that decisively turn neovim to a full fledged ide, or in my opinion, something more.
-
-#### neo development environment
-
-neovim although was lacking on some features early on, now it has a stable core.
 
 ##### lazyvim
 
